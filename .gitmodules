@@ -4,3 +4,6 @@
 [submodule "py_crepe"]
 	path = py_crepe
 	url = git@github.com:johnb30/py_crepe.git
+[submodule "cocktails_for_programmers"]
+	path = cocktails_for_programmers
+	url = git@github.com:dubnio/cocktails_for_programmers.git
