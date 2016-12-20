@@ -1,3 +1,6 @@
 [submodule "vagrant-dev"]
 	path = vagrant-dev
 	url = git@github.com:netoxico/vagrant-dev.git
+[submodule "py_crepe"]
+	path = py_crepe
+	url = git@github.com:johnb30/py_crepe.git
